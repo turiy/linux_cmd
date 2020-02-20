@@ -1,0 +1,1 @@
+sed -Ei '5d;7d' task2.txt 

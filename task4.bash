@@ -1,0 +1,1 @@
+echo "A quick red fox jumped over the gray cat" | awk '{print $5}' 

@@ -1,0 +1,1 @@
+nthline=$(sed -n 35p task3.txt) && echo ${#nthline}
